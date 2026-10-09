@@ -1,0 +1,1904 @@
+llm,input,output
+deepseek,Explain how photosynthesis works in 3 sentences.,"Photosynthesis uses sunlight, water, and carbon dioxide to produce glucose and oxygen inside chloroplasts. Light-dependent reactions capture solar energy to make ATP and NADPH, while the Calvin cycle uses that energy to convert CO₂ into sugar. Oxygen is released as a byproduct when water molecules are split."
+deepseek,What are the main causes of World War I?,"The main causes of World War I are often summarized by the acronym MANIA: militarism, alliances, imperialism, nationalism, and the assassination of Archduke Franz Ferdinand. European powers engaged in an arms race and built rival alliance systems (the Triple Alliance and Triple Entente), while competition for colonies and rising nationalist tensions—especially in the Balkans—destabilized the continent. The assassination of Archduke Franz Ferdinand of Austria-Hungary by a Serbian nationalist in June 1914 triggered the July Crisis, which rapidly escalated into a full European war."
+deepseek,Describe the water cycle in simple terms.,"The water cycle is the continuous movement of water between the Earth and the atmosphere. The sun heats water in oceans, lakes, and rivers, causing it to evaporate into vapor, while plants release additional vapor through transpiration. As the vapor rises, it cools and condenses into clouds, then falls back to Earth as precipitation like rain or snow. The water then collects in bodies of water or soaks into the ground, and the cycle repeats."
+deepseek,What is the difference between mitosis and meiosis?,"Mitosis and meiosis are both forms of cell division, but they serve different purposes. Mitosis produces two genetically identical diploid cells and is used for growth, repair, and asexual reproduction. Meiosis produces four genetically unique haploid cells (gametes like sperm and eggs) and is used for sexual reproduction. Meiosis also involves two rounds of division and creates genetic variation through crossing over and independent assortment, which mitosis does not."
+deepseek,Explain the theory of evolution by natural selection.,"The theory of evolution by natural selection, proposed by Charles Darwin, explains how species change over time. Individuals within a population vary in their traits, and some of those variations give an advantage in surviving and reproducing in a given environment. Those individuals tend to pass their advantageous traits to their offspring, while less favorable traits become less common. Over many generations, this process can lead to populations becoming better adapted to their environments and, eventually, to the emergence of new species."
+deepseek,What causes earthquakes?,"Earthquakes are mainly caused by the sudden release of built-up stress along faults, which are fractures in the Earth's crust. This stress accumulates as tectonic plates slowly move and grind against each other, and when the friction holding them is overcome, the rocks slip and release energy as seismic waves. Other causes include volcanic activity, human activities like mining or wastewater injection, and rarely, meteor impacts or landslides."
+deepseek,How do vaccines work in the human body?,"Vaccines work by training the immune system to recognize and fight a specific pathogen without causing the actual disease. They introduce a harmless form of the pathogen—such as an inactivated virus, a weakened version, a protein subunit, or genetic instructions (like mRNA)—that triggers an immune response. The immune system produces antibodies and memory cells tailored to that pathogen. If the real pathogen later enters the body, these memory cells respond quickly and powerfully, often preventing illness entirely or reducing its severity."
+deepseek,What is the greenhouse effect and why does it matter?,"The greenhouse effect is the process by which certain gases in Earth's atmosphere—such as carbon dioxide, methane, and water vapor—trap heat from the sun, keeping the planet warm enough to support life. Sunlight passes through the atmosphere and warms the surface, which then radiates heat back upward; greenhouse gases absorb some of that heat and re-emit it, slowing its escape into space. This natural effect is essential, because without it Earth would be far too cold for most life. However, human activities like burning fossil fuels have increased greenhouse gas concentrations, intensifying the effect and driving global warming and climate change."
+deepseek,Explain how the internet transmits data between computers.,"The internet transmits data by breaking it into small packets that travel independently across a network of interconnected routers and cables. Each packet contains the destination address (an IP address) and follows the most efficient available path, guided by routers that direct traffic between networks. When the packets arrive at their destination, they are reassembled into the original message using protocols like TCP/IP, which also check for errors and request retransmission of any lost data. This packet-switching approach makes the internet resilient, since data can route around failures or congestion."
+deepseek,What is the difference between a virus and a bacterium?,"Viruses and bacteria are both microscopic, but they differ greatly in structure and behavior. Bacteria are living single-celled organisms that can reproduce on their own, carry out metabolism, and are vulnerable to antibiotics. Viruses are much smaller and are not considered fully alive—they consist mainly of genetic material (DNA or RNA) inside a protein coat and can only reproduce by hijacking a host cell's machinery. Because of this, antibiotics don't work on viruses; viral infections are treated with vaccines, antiviral drugs, or the body's own immune response."
+deepseek,How does the human immune system fight infections?,"The human immune system fights infections in layers, starting with physical barriers like skin and mucus that block pathogens from entering. If a pathogen gets through, the innate immune response reacts quickly—immune cells such as macrophages and neutrophils engulf invaders, and inflammation helps isolate the threat. Meanwhile, the adaptive immune response targets the specific pathogen: B cells produce antibodies that neutralize it, while T cells destroy infected cells. After the infection clears, memory B and T cells remain, providing long-lasting immunity so the body can respond faster if the same pathogen returns."
+deepseek,Explain how neurons communicate with each other.,"Neurons communicate mainly through electrochemical signals at junctions called synapses. When a neuron is stimulated, an electrical impulse called an action potential travels down its axon to the presynaptic terminal. This triggers the release of chemical messengers called neurotransmitters into the synaptic gap, which then bind to receptors on the receiving neuron. That binding can excite or inhibit the receiving neuron, and if the combined signals are strong enough, it fires its own action potential, continuing the signal along the network."
+deepseek,What is the difference between weather and climate?,"Weather refers to short-term atmospheric conditions in a specific place—like today's temperature, rain, wind, or clouds—and can change quickly. Climate is the long-term average pattern of weather in a region over many years, often decades or more. In short, weather is what you experience day to day, while climate is the broader pattern that shapes what conditions are typical for an area."
+deepseek,What is quantum entanglement in simple terms?,"Quantum entanglement is a phenomenon where two or more particles become linked in such a way that their properties are correlated, no matter how far apart they are. Measuring a property of one particle—like its spin or polarization—instantly tells you something about the other, even if they're light-years apart. This doesn't allow faster-than-light communication, but the particles behave as a single connected system rather than as independent objects. Einstein famously called it ""spooky action at a distance,"" and it's now a key resource in quantum computing and cryptography."
+deepseek,What caused the fall of the Roman Empire?,"The fall of the Roman Empire had many causes rather than a single one. Political instability, weak and short-lived emperors, and frequent civil wars undermined Rome's leadership. Economic troubles—heavy taxation, inflation, and reliance on slave labor—weakened the empire from within. External pressures from invading groups like the Goths, Vandals, and Huns, along with a series of military defeats, stretched its defenses. The empire also grew so vast that governing and defending it became impractical, leading to its division into Western and Eastern halves. The Western Roman Empire finally fell in 476 AD when the Germanic leader Odoacer deposed the last emperor, Romulus Augustulus, while the Eastern (Byzantine) Empire continued for nearly another thousand years."
+deepseek,How do solar panels convert sunlight into electricity?,"Solar panels convert sunlight into electricity through the photovoltaic effect. When photons from sunlight hit the panel's semiconductor material, usually silicon, they knock electrons loose from their atoms. The panel is built with a built-in electric field—created by joining positively and negatively doped silicon layers—that pushes those freed electrons in one direction, creating an electric current. Metal contacts on the panel collect this current and send it through wires as usable electricity, typically as direct current (DC), which an inverter then converts to alternating current (AC) for homes and the grid."
+deepseek,What is the role of DNA in heredity?,"DNA carries the genetic instructions that are passed from parents to offspring, making heredity possible. Its double-helix structure consists of sequences of four bases—adenine, thymine, guanine, and cytosine—that encode the information for building proteins and regulating biological processes. During reproduction, DNA is copied and transmitted to the next generation, so offspring inherit traits such as eye color, height, and susceptibility to certain diseases. Genes, which are specific segments of DNA, determine particular traits, and the combination of genes from both parents creates genetic variation within a population."
+deepseek,What is inflation and what causes it?,"Inflation is the rate at which the general level of prices for goods and services rises over time, which reduces the purchasing power of money—each dollar buys less than before. It's typically measured by indices like the Consumer Price Index (CPI). Inflation can be caused by several factors: demand-pull inflation, when strong consumer demand outstrips supply; cost-push inflation, when rising costs of production (like higher wages or raw materials) get passed to consumers; and monetary inflation, when a central bank increases the money supply faster than economic output grows. Expectations can also play a role, since people anticipating higher prices may push wages and prices up preemptively."
+deepseek,How does the human eye perceive color?,"The human eye perceives color through specialized cells in the retina called cones, which come in three types sensitive to red, green, and blue light. When light enters the eye, it hits these cones, and each type responds based on the wavelength of the light—short wavelengths stimulate blue cones, medium ones green, and long ones red. The brain then combines the signals from all three cone types to produce the full range of colors we see. Rods, the other type of photoreceptor, handle vision in low light but don't detect color."
+deepseek,How do black holes form?,"Black holes form when a massive star—typically at least 20 times the mass of the Sun—runs out of nuclear fuel and can no longer support itself against gravity. Without the outward pressure from fusion, the star's core collapses rapidly, and the outer layers are blown away in a supernova explosion. If the remaining core is massive enough, it collapses past the point where any known force can stop it, crushing matter into an infinitely dense point called a singularity surrounded by an event horizon. Smaller stars end up as white dwarfs or neutron stars, but only the most massive ones leave behind black holes."
+deepseek,Write a Python function to reverse a string.,"Here's a simple Python function to reverse a string:
+
+```python
+def reverse_string(s):
+    return s[::-1]
+```
+
+This uses Python's slicing syntax. The `[::-1]` slice starts at the end and steps backward by 1, producing the reversed string.
+
+**Example usage:**
+```python
+print(reverse_string(""hello""))   # ""olleh""
+print(reverse_string(""Python""))  # ""nohtyP""
+```
+
+**Alternative using `reversed()`:**
+```python
+def reverse_string(s):
+    return ''.join(reversed(s))
+```
+
+Both work fine, but the slicing version is generally more concise and faster."
+deepseek,Write a Python function that returns the nth Fibonacci number.,"Here's a Python function that returns the nth Fibonacci number:
+
+```python
+def fibonacci(n):
+    if n < 0:
+        raise ValueError(""n must be a non-negative integer"")
+    if n <= 1:
+        return n
+    a, b = 0, 1
+    for _ in range(2, n + 1):
+        a, b = b, a + b
+    return b
+```
+
+This uses an iterative approach, which is efficient with O(n) time and O(1) space.
+
+**Example usage:**
+```python
+print(fibonacci(0))   # 0
+print(fibonacci(1))   # 1
+print(fibonacci(10))  # 55
+print(fibonacci(20))  # 6765
+```
+
+**Alternative using recursion (less efficient for large n):**
+```python
+def fibonacci(n):
+    if n <= 1:
+        return n
+    return fibonacci(n - 1) + fibonacci(n - 2)
+```
+
+The recursive version is simpler but has exponential time complexity, so the iterative version is preferred for larger values of `n`."
+deepseek,Write a Python function to check if a number is prime.,"Here's a Python function to check if a number is prime:
+
+```python
+def is_prime(n):
+    if n < 2:
+        return False
+    if n < 4:
+        return True
+    if n % 2 == 0 or n % 3 == 0:
+        return False
+    i = 5
+    while i * i <= n:
+        if n % i == 0 or n % (i + 2) == 0:
+            return False
+        i += 6
+    return True
+```
+
+This checks divisibility only up to the square root of `n`, and skips multiples of 2 and 3, making it efficient with O(√n) time complexity.
+
+**Example usage:**
+```python
+print(is_prime(2))   # True
+print(is_prime(17))  # True
+print(is_prime(18))  # False
+print(is_prime(97))  # True
+print(is_prime(1))   # False
+```
+
+**Simple alternative (easier to read, slightly slower):**
+```python
+def is_prime(n):
+    if n < 2:
+        return False
+    for i in range(2, int(n ** 0.5) + 1):
+        if n % i == 0:
+            return False
+    return True
+```
+
+Both work correctly; the first is faster for large numbers, while the second is more straightforward."
+deepseek,Write a Python function to count vowels in a string.,"Here's a Python function to count vowels in a string:
+
+```python
+def count_vowels(s):
+    vowels = ""aeiouAEIOU""
+    return sum(1 for char in s if char in vowels)
+```
+
+This iterates through each character and counts those that are vowels (both lowercase and uppercase).
+
+**Example usage:**
+```python
+print(count_vowels(""hello""))        # 2
+print(count_vowels(""Python""))       # 1
+print(count_vowels(""AEIOU""))        # 5
+print(count_vowels(""rhythm""))       # 0
+```
+
+**Alternative using a loop:**
+```python
+def count_vowels(s):
+    count = 0
+    for char in s.lower():
+        if char in ""aeiou"":
+            return count
+```
+
+Wait—that version has a bug. Here's the corrected loop version:
+
+```python
+def count_vowels(s):
+    count = 0
+    for char in s.lower():
+        if char in ""aeiou"":
+            count += 1
+    return count
+```
+
+Both approaches work fine. The first is more concise, while the second is a bit more explicit if you're newer to Python."
+deepseek,Write a Python function to find the maximum element in a list without using max().,"Here's a Python function to find the maximum element in a list without using `max()`:
+
+```python
+def find_max(lst):
+    if not lst:
+        raise ValueError(""list is empty"")
+    maximum = lst[0]
+    for item in lst[1:]:
+        if item > maximum:
+            maximum = item
+    return maximum
+```
+
+This starts by assuming the first element is the maximum, then compares each remaining element and updates the maximum when a larger one is found.
+
+**Example usage:**
+```python
+print(find_max([3, 1, 4, 1, 5, 9, 2, 6]))  # 9
+print(find_max([-5, -2, -10, -1]))         # -1
+print(find_max([42]))                      # 42
+```
+
+**Alternative using `reduce`:**
+```python
+from functools import reduce
+
+def find_max(lst):
+    if not lst:
+        raise ValueError(""list is empty"")
+    return reduce(lambda a, b: a if a > b else b, lst)
+```
+
+Both work correctly. The first version is more readable and doesn't require an import, while the second is more functional in style."
+deepseek,Write a Python function to merge two sorted lists into one sorted list.,"Here's a Python function to merge two sorted lists into one sorted list:
+
+```python
+def merge_sorted(list1, list2):
+    merged = []
+    i = j = 0
+    while i < len(list1) and j < len(list2):
+        if list1[i] <= list2[j]:
+            merged.append(list1[i])
+            i += 1
+        else:
+            merged.append(list2[j])
+            j += 1
+    merged.extend(list1[i:])
+    merged.extend(list2[j:])
+    return merged
+```
+
+This uses a two-pointer approach, comparing elements from each list and appending the smaller one, then adding any remaining elements. It runs in O(n + m) time.
+
+**Example usage:**
+```python
+print(merge_sorted([1, 3, 5], [2, 4, 6]))    # [1, 2, 3, 4, 5, 6]
+print(merge_sorted([1, 2, 3], [4, 5, 6]))    # [1, 2, 3, 4, 5, 6]
+print(merge_sorted([], [1, 2]))              # [1, 2]
+```
+
+**Simple alternative (less efficient, O(n log n)):**
+```python
+def merge_sorted(list1, list2):
+    return sorted(list1 + list2)
+```
+
+The two-pointer version is preferred when efficiency matters, since it takes advantage of the fact that both input lists are already sorted."
+deepseek,Write a Python function to check if a string is a palindrome.,"Here's a Python function to check if a string is a palindrome:
+
+```python
+def is_palindrome(s):
+    s = s.lower()
+    return s == s[::-1]
+```
+
+This converts the string to lowercase (so comparisons are case-insensitive) and compares it to its reverse.
+
+**Example usage:**
+```python
+print(is_palindrome(""racecar""))  # True
+print(is_palindrome(""hello""))    # False
+print(is_palindrome(""Madam""))    # True
+```
+
+**Alternative that ignores non-alphanumeric characters:**
+```python
+def is_palindrome(s):
+    cleaned = ''.join(char.lower() for char in s if char.isalnum())
+    return cleaned == cleaned[::-1]
+```
+
+This version handles phrases like `""A man, a plan, a canal: Panama""` by stripping out spaces and punctuation:
+
+```python
+print(is_palindrome(""A man, a plan, a canal: Panama""))  # True
+```
+
+Both work well—use the simpler version if you only care about letters, or the second if you want to handle full sentences."
+deepseek,Write a Python function to compute the factorial of a number using recursion.,"Here's a Python function to compute the factorial of a number using recursion:
+
+```python
+def factorial(n):
+    if n < 0:
+        raise ValueError(""factorial is not defined for negative numbers"")
+    if n == 0 or n == 1:
+        return 1
+    return n * factorial(n - 1)
+```
+
+This uses the base case `n == 0 or n == 1` (both equal 1) and recursively multiplies `n` by the factorial of `n - 1`.
+
+**Example usage:**
+```python
+print(factorial(0))   # 1
+print(factorial(1))   # 1
+print(factorial(5))   # 120
+print(factorial(10))  # 3628800
+```
+
+**Note:** Python has a default recursion limit (usually 1000), so this will raise a `RecursionError` for very large values of `n`. For those cases, an iterative version is safer:
+
+```python
+def factorial(n):
+    if n < 0:
+        raise ValueError(""factorial is not defined for negative numbers"")
+    result = 1
+    for i in range(2, n + 1):
+        result *= i
+    return result
+```"
+deepseek,Write a Python function to remove duplicates from a list while preserving order.,"Here's a Python function to remove duplicates from a list while preserving order:
+
+```python
+def remove_duplicates(lst):
+    seen = set()
+    result = []
+    for item in lst:
+        if item not in seen:
+            seen.add(item)
+            result.append(item)
+    return result
+```
+
+This uses a set to track items already seen, giving O(n) time complexity while keeping the original order.
+
+**Example usage:**
+```python
+print(remove_duplicates([1, 2, 2, 3, 1, 4, 3]))      # [1, 2, 3, 4]
+print(remove_duplicates([""a"", ""b"", ""a"", ""c"", ""b""]))   # [""a"", ""b"", ""c""]
+print(remove_duplicates([1, 1, 1, 1]))                 # [1]
+```
+
+**Alternative using `dict.fromkeys()` (Python 3.7+):**
+```python
+def remove_duplicates(lst):
+    return list(dict.fromkeys(lst))
+```
+
+This works because dictionaries preserve insertion order in Python 3.7+, and `dict.fromkeys()` keeps only the first occurrence of each key. It's more concise but requires hashable elements, same as the set-based version."
+deepseek,Write a Python function to flatten a nested list.,"Here's a Python function to flatten a nested list:
+
+```python
+def flatten(lst):
+    result = []
+    for item in lst:
+        if isinstance(item, list):
+            result.extend(flatten(item))
+        else:
+            result.append(item)
+    return result
+```
+
+This recursively processes each element—if it's a list, it flattens it further; otherwise, it appends the item to the result.
+
+**Example usage:**
+```python
+print(flatten([1, [2, 3], [4, [5, 6]]]))       # [1, 2, 3, 4, 5, 6]
+print(flatten([[1, 2], [3, [4, [5]]]]))        # [1, 2, 3, 4, 5]
+print(flatten([1, 2, 3]))                       # [1, 2, 3]
+print(flatten([]))                              # []
+```
+
+**Alternative using a generator (more memory-efficient for large lists):**
+```python
+def flatten(lst):
+    for item in lst:
+        if isinstance(item, list):
+            yield from flatten(item)
+        else:
+            yield item
+```
+
+Usage with a generator:
+```python
+print(list(flatten([1, [2, 3], [4, [5, 6]]])))  # [1, 2, 3, 4, 5, 6]
+```
+
+Both work well. The recursive version returns a list directly, while the generator version is lazier and better suited for very large or deeply nested structures."
+deepseek,"Write a Python class for a stack with push, pop, and peek.","Here's a Python class for a stack with `push`, `pop`, and `peek`:
+
+```python
+class Stack:
+    def __init__(self):
+        self.items = []
+
+    def push(self, item):
+        self.items.append(item)
+
+    def pop(self):
+        if self.is_empty():
+            raise IndexError(""pop from empty stack"")
+        return self.items.pop()
+
+    def peek(self):
+        if self.is_empty():
+            raise IndexError(""peek from empty stack"")
+        return self.items[-1]
+
+    def is_empty(self):
+        return len(self.items) == 0
+
+    def size(self):
+        return len(self.items)
+```
+
+This uses a Python list as the underlying storage, with the end of the list acting as the top of the stack.
+
+**Example usage:**
+```python
+s = Stack()
+s.push(1)
+s.push(2)
+s.push(3)
+print(s.peek())   # 3
+print(s.pop())    # 3
+print(s.pop())    # 2
+print(s.size())   # 1
+print(s.is_empty())  # False
+```
+
+**Notes:**
+- `push` adds an item to the top (O(1))
+- `pop` removes and returns the top item (O(1))
+- `peek` returns the top item without removing it (O(1))
+- `is_empty` and `size` are helper methods that make the class more convenient to use
+
+You could also use `collections.deque` instead of a list for the underlying storage, which can be slightly more efficient, but for a stack a plain list is perfectly fine."
+deepseek,Write a Python function to detect if two strings are anagrams.,"Here's a Python function to detect if two strings are anagrams:
+
+```python
+def are_anagrams(s1, s2):
+    return sorted(s1.lower()) == sorted(s2.lower())
+```
+
+This lowercases both strings (so comparisons are case-insensitive) and compares their sorted characters. If they match, the strings are anagrams.
+
+**Example usage:**
+```python
+print(are_anagrams(""listen"", ""silent""))   # True
+print(are_anagrams(""hello"", ""world""))     # False
+print(are_anagrams(""Triangle"", ""Integral""))  # True
+```
+
+**Alternative using character counts (more efficient for long strings):**
+```python
+from collections import Counter
+
+def are_anagrams(s1, s2):
+    return Counter(s1.lower()) == Counter(s2.lower())
+```
+
+This counts the frequency of each character in both strings and compares the counts. It runs in O(n) time, whereas the sorted version runs in O(n log n).
+
+**Alternative that ignores spaces and punctuation:**
+```python
+def are_anagrams(s1, s2):
+    clean = lambda s: sorted(c.lower() for c in s if c.isalnum())
+    return clean(s1) == clean(s2)
+```
+
+This version handles phrases like `""Dormitory""` and `""Dirty room""` by stripping out non-alphanumeric characters:
+
+```python
+print(are_anagrams(""Dormitory"", ""Dirty room""))  # True
+```
+
+Choose the version that best fits your needs—simple, efficient, or tolerant of punctuation and spaces."
+deepseek,Write a Python function to compute the greatest common divisor of two numbers.,"Here's a Python function to compute the greatest common divisor (GCD) of two numbers:
+
+```python
+def gcd(a, b):
+    a, b = abs(a), abs(b)
+    while b:
+        a, b = b, a % b
+    return a
+```
+
+This uses the Euclidean algorithm, which repeatedly replaces `a` with `b` and `b` with `a % b` until `b` becomes 0. The remaining value of `a` is the GCD. It runs in O(log(min(a, b))) time.
+
+**Example usage:**
+```python
+print(gcd(48, 18))    # 6
+print(gcd(100, 75))   # 25
+print(gcd(17, 13))    # 1
+print(gcd(0, 5))      # 5
+print(gcd(-24, 36))   # 12
+```
+
+**Alternative using recursion:**
+```python
+def gcd(a, b):
+    a, b = abs(a), abs(b)
+    return a if b == 0 else gcd(b, a % b)
+```
+
+**Alternative using the built-in `math.gcd`:**
+```python
+import math
+
+def gcd(a, b):
+    return math.gcd(a, b)
+```
+
+The built-in `math.gcd` is implemented in C and handles edge cases like zeros and negatives automatically, so it's the fastest and simplest option if you don't need to write the algorithm yourself."
+deepseek,Write a Python function to implement binary search.,"Here's a Python function to implement binary search:
+
+```python
+def binary_search(arr, target):
+    low, high = 0, len(arr) - 1
+    while low <= high:
+        mid = (low + high) // 2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            low = mid + 1
+        else:
+            high = mid - 1
+    return -1
+```
+
+This works on a sorted list and repeatedly narrows the search range in half until the target is found or the range is empty. It runs in O(log n) time.
+
+**Example usage:**
+```python
+print(binary_search([1, 3, 5, 7, 9, 11], 7))   # 3
+print(binary_search([1, 3, 5, 7, 9, 11], 4))   # -1
+print(binary_search([2, 4, 6, 8], 2))          # 0
+```
+
+**Recursive alternative:**
+```python
+def binary_search(arr, target, low=0, high=None):
+    if high is None:
+        high = len(arr) - 1
+    if low > high:
+        return -1
+    mid = (low + high) // 2
+    if arr[mid] == target:
+        return mid
+    elif arr[mid] < target:
+        return binary_search(arr, target, mid + 1, high)
+    else:
+        return binary_search(arr, target, low, mid - 1)
+```
+
+**Note:** Binary search requires the input list to be sorted. If it isn't, you'll need to sort it first (e.g., with `arr.sort()`), which takes O(n log n) time. The iterative version is generally preferred since it avoids recursion overhead and stack limits."
+deepseek,Write a Python function to sort a list using merge sort.,"Here's a Python function to sort a list using merge sort:
+
+```python
+def merge_sort(lst):
+    if len(lst) <= 1:
+        return lst
+    mid = len(lst) // 2
+    left = merge_sort(lst[:mid])
+    right = merge_sort(lst[mid:])
+    return merge(left, right)
+
+
+def merge(left, right):
+    result = []
+    i = j = 0
+    while i < len(left) and j < len(right):
+        if left[i] <= right[j]:
+            result.append(left[i])
+            i += 1
+        else:
+            result.append(right[j])
+            j += 1
+    result.extend(left[i:])
+    result.extend(right[j:])
+    return result
+```
+
+This recursively splits the list in half until each sublist has one element, then merges the sorted sublists back together. It runs in O(n log n) time and uses O(n) extra space.
+
+**Example usage:**
+```python
+print(merge_sort([5, 2, 9, 1, 5, 6]))    # [1, 2, 5, 5, 6, 9]
+print(merge_sort([3, -1, 0, 7, -5]))     # [-5, -1, 0, 3, 7]
+print(merge_sort([]))                    # []
+print(merge_sort([42]))                  # [42]
+```
+
+**In-place alternative (uses less memory but is trickier to implement):**
+```python
+def merge_sort(lst):
+    if len(lst) <= 1:
+        return lst
+    mid = len(lst) // 2
+    left = merge_sort(lst[:mid])
+    right = merge_sort(lst[mid:])
+    lst[:] = merge(left, right)
+    return lst
+```
+
+The first version is cleaner and easier to understand. Merge sort is a stable sort, meaning equal elements keep their original relative order, which can be useful when sorting by multiple criteria."
+deepseek,Write a Python function to sort a list using quicksort.,"Here's a Python function to sort a list using quicksort:
+
+```python
+def quicksort(lst):
+    if len(lst) <= 1:
+        return lst
+    pivot = lst[len(lst) // 2]
+    left = [x for x in lst if x < pivot]
+    middle = [x for x in lst if x == pivot]
+    right = [x for x in lst if x > pivot]
+    return quicksort(left) + middle + quicksort(right)
+```
+
+This picks the middle element as the pivot, partitions the list into elements less than, equal to, and greater than the pivot, then recursively sorts the left and right partitions. It runs in O(n log n) average time and O(n²) worst case.
+
+**Example usage:**
+```python
+print(quicksort([5, 2, 9, 1, 5, 6]))    # [1, 2, 5, 5, 6, 9]
+print(quicksort([3, -1, 0, 7, -5]))     # [-5, -1, 0, 3, 7]
+print(quicksort([]))                    # []
+print(quicksort([42]))                  # [42]
+```
+
+**In-place alternative (more memory-efficient):**
+```python
+def quicksort(lst, low=0, high=None):
+    if high is None:
+        high = len(lst) - 1
+    if low < high:
+        pivot_index = partition(lst, low, high)
+        quicksort(lst, low, pivot_index - 1)
+        quicksort(lst, pivot_index + 1, high)
+    return lst
+
+
+def partition(lst, low, high):
+    pivot = lst[high]
+    i = low - 1
+    for j in range(low, high):
+        if lst[j] <= pivot:
+            i += 1
+            lst[i], lst[j] = lst[j], lst[i]
+    lst[i + 1], lst[high] = lst[high], lst[i + 1]
+    return i + 1
+```
+
+The first version is more concise and Pythonic, while the second sorts in place and uses O(log n) space for the recursion stack. Unlike merge sort, quicksort is not stable, so equal elements may not preserve their original order."
+deepseek,Write a Python function to convert a Roman numeral to an integer.,"Here's a Python function to convert a Roman numeral to an integer:
+
+```python
+def roman_to_int(s):
+    values = {
+        'I': 1, 'V': 5, 'X': 10, 'L': 50,
+        'C': 100, 'D': 500, 'M': 1000
+    }
+    total = 0
+    prev = 0
+    for char in reversed(s.upper()):
+        value = values[char]
+        if value < prev:
+            total -= value
+        else:
+            total += value
+        prev = value
+    return total
+```
+
+This iterates through the Roman numeral from right to left. If a symbol's value is less than the previous (larger) one, it's subtracted; otherwise, it's added. This handles subtractive notation like `IV` (4) and `IX` (9).
+
+**Example usage:**
+```python
+print(roman_to_int(""III""))      # 3
+print(roman_to_int(""IV""))       # 4
+print(roman_to_int(""IX""))       # 9
+print(roman_to_int(""LVIII""))    # 58
+print(roman_to_int(""MCMXCIV""))  # 1994
+```
+
+**Alternative using a left-to-right pass:**
+```python
+def roman_to_int(s):
+    values = {
+        'I': 1, 'V': 5, 'X': 10, 'L': 50,
+        'C': 100, 'D': 500, 'M': 1000
+    }
+    total = 0
+    s = s.upper()
+    for i in range(len(s)):
+        if i + 1 < len(s) and values[s[i]] < values[s[i + 1]]:
+            total -= values[s[i]]
+        else:
+            total += values[s[i]]
+    return total
+```
+
+Both approaches work correctly. The right-to-left version is slightly more elegant because it avoids lookahead, but the left-to-right version is often easier to reason about. Note that neither version validates the input, so invalid numerals like `""IIII""` or `""ABC""` would either return a wrong result or raise a `KeyError`."
+deepseek,Write a Python function to check for balanced parentheses in a string.,"Here's a Python function to check for balanced parentheses in a string:
+
+```python
+def is_balanced(s):
+    stack = []
+    pairs = {')': '(', ']': '[', '}': '{'}
+    for char in s:
+        if char in '([{':
+            stack.append(char)
+        elif char in ')]}':
+            if not stack or stack.pop() != pairs[char]:
+                return False
+    return not stack
+```
+
+This uses a stack to track opening brackets. When a closing bracket is found, it checks that the most recent opening bracket matches. At the end, the stack must be empty for the string to be balanced.
+
+**Example usage:**
+```python
+print(is_balanced(""()""))          # True
+print(is_balanced(""()[]{}""))      # True
+print(is_balanced(""(]""))          # False
+print(is_balanced(""([{}])""))      # True
+print(is_balanced(""((""))          # False
+print(is_balanced(""""))            # True
+```
+
+**If you only care about parentheses `(` and `)`:**
+```python
+def is_balanced(s):
+    count = 0
+    for char in s:
+        if char == '(':
+            count += 1
+        elif char == ')':
+            count -= 1
+            if count < 0:
+                return False
+    return count == 0
+```
+
+**Notes:**
+- The first version handles all three bracket types: `()`, `[]`, and `{}`
+- It correctly rejects strings where brackets are closed in the wrong order, like `""([)]""`
+- A simple counter works for a single bracket type but fails when multiple types are mixed, so the stack-based approach is more general"
+deepseek,Write a Python function to find the longest common prefix among a list of strings.,"Here's a Python function to find the longest common prefix among a list of strings:
+
+```python
+def longest_common_prefix(strs):
+    if not strs:
+        return """"
+    prefix = strs[0]
+    for s in strs[1:]:
+        while not s.startswith(prefix):
+            prefix = prefix[:-1]
+            if not prefix:
+                return """"
+    return prefix
+```
+
+This starts with the first string as the candidate prefix, then shortens it until every other string starts with it.
+
+**Example usage:**
+```python
+print(longest_common_prefix([""flower"", ""flow"", ""flight""]))  # ""fl""
+print(longest_common_prefix([""dog"", ""racecar"", ""car""]))     # """"
+print(longest_common_prefix([""interspecies"", ""interstellar"", ""interstate""]))  # ""inters""
+print(longest_common_prefix([""apple""]))                     # ""apple""
+print(longest_common_prefix([]))                            # """"
+```
+
+**Alternative using vertical scanning (character by character):**
+```python
+def longest_common_prefix(strs):
+    if not strs:
+        return """"
+    for i in range(len(strs[0])):
+        char = strs[0][i]
+        for s in strs[1:]:
+            if i >= len(s) or s[i] != char:
+                return strs[0][:i]
+    return strs[0]
+```
+
+**Alternative using `zip` and `set`:**
+```python
+def longest_common_prefix(strs):
+    if not strs:
+        return """"
+    prefix = []
+    for chars in zip(*strs):
+        if len(set(chars)) == 1:
+            prefix.append(chars[0])
+        else:
+            break
+    return ''.join(prefix)
+```
+
+All three approaches run in O(n * m) time in the worst case, where n is the number of strings and m is the length of the shortest string. The first version is usually the most readable and efficient in practice, since it shortens the prefix rather than checking every character individually."
+deepseek,Write a Python function to implement the FizzBuzz problem.,"Here's a Python function to implement the FizzBuzz problem:
+
+```python
+def fizzbuzz(n):
+    result = []
+    for i in range(1, n + 1):
+        if i % 15 == 0:
+            result.append(""FizzBuzz"")
+        elif i % 3 == 0:
+            result.append(""Fizz"")
+        elif i % 5 == 0:
+            result.append(""Buzz"")
+        else:
+            result.append(str(i))
+    return result
+```
+
+This checks divisibility by 15 first (both 3 and 5), then 3, then 5, and otherwise returns the number as a string. Checking 15 first avoids incorrectly labeling multiples of both as just ""Fizz"" or ""Buzz"".
+
+**Example usage:**
+```python
+print(fizzbuzz(15))
+# ['1', '2', 'Fizz', '4', 'Buzz', 'Fizz', '7', '8', 'Fizz', 'Buzz', '11', 'Fizz', '13', '14', 'FizzBuzz']
+```
+
+**If you just want to print rather than return a list:**
+```python
+def fizzbuzz(n):
+    for i in range(1, n + 1):
+        if i % 15 == 0:
+            print(""FizzBuzz"")
+        elif i % 3 == 0:
+            print(""Fizz"")
+        elif i % 5 == 0:
+            print(""Buzz"")
+        else:
+            print(i)
+```
+
+**One-liner alternative:**
+```python
+def fizzbuzz(n):
+    return [
+        ""FizzBuzz"" if i % 15 == 0 else
+        ""Fizz"" if i % 3 == 0 else
+        ""Buzz"" if i % 5 == 0 else
+        str(i)
+        for i in range(1, n + 1)
+    ]
+```
+
+The first version is the most straightforward and readable, which is usually preferred in interviews and production code."
+deepseek,Write a Python function to reverse the words in a sentence.,"Here's a Python function to reverse the words in a sentence:
+
+```python
+def reverse_words(sentence):
+    return ' '.join(sentence.split()[::-1])
+```
+
+This splits the sentence into words (handling multiple spaces automatically), reverses the list, and joins them back with single spaces.
+
+**Example usage:**
+```python
+print(reverse_words(""hello world""))              # ""world hello""
+print(reverse_words(""the quick brown fox""))      # ""fox brown quick the""
+print(reverse_words(""  lots   of   spaces  ""))   # ""spaces of lots""
+```
+
+**Alternative that preserves original spacing:**
+```python
+def reverse_words(sentence):
+    return ' '.join(reversed(sentence.split(' ')))
+```
+
+Note that this version keeps empty strings from consecutive spaces, so `""a  b""` becomes `""b  a""` (with the extra space preserved as an empty word). The first version normalizes whitespace, which is usually what you want.
+
+**Alternative that reverses the characters within each word too:**
+```python
+def reverse_words(sentence):
+    return ' '.join(word[::-1] for word in sentence.split())
+```
+
+This turns `""hello world""` into `""olleh dlrow""`.
+
+**Alternative without using built-in `split` or `join` (manual approach):**
+```python
+def reverse_words(sentence):
+    words = []
+    word = ''
+    for char in sentence:
+        if char == ' ':
+            if word:
+                words.append(word)
+                word = ''
+        else:
+            word += char
+    if word:
+        words.append(word)
+    return ' '.join(words[::-1])
+```
+
+For most cases, the first one-liner is the cleanest and most Pythonic solution."
+deepseek,Write a Python function to find the missing number in a list of 1..n.,"Here's a Python function to find the missing number in a list containing numbers from 1 to n:
+
+```python
+def find_missing(nums):
+    n = len(nums) + 1
+    expected = n * (n + 1) // 2
+    return expected - sum(nums)
+```
+
+This uses the formula for the sum of the first n integers, then subtracts the actual sum of the list to find the missing value. It runs in O(n) time and O(1) space.
+
+**Example usage:**
+```python
+print(find_missing([1, 2, 4, 5, 6]))   # 3
+print(find_missing([1, 2, 3, 4, 5]))   # 6
+print(find_missing([2, 3, 4, 5]))      # 1
+print(find_missing([1]))               # 2
+```
+
+**Alternative using XOR (avoids potential integer overflow in other languages):**
+```python
+def find_missing(nums):
+    n = len(nums) + 1
+    result = 0
+    for i in range(1, n + 1):
+        result ^= i
+    for num in nums:
+        result ^= num
+    return result
+```
+
+XOR works because `a ^ a = 0` and `a ^ 0 = a`, so all present numbers cancel out, leaving the missing one.
+
+**Alternative using a set:**
+```python
+def find_missing(nums):
+    n = len(nums) + 1
+    return next(i for i in range(1, n + 1) if i not in set(nums))
+```
+
+All three work correctly. The sum-based version is the most concise and is usually the preferred approach in interviews, while the XOR version is useful in languages where integer overflow could be a concern."
+deepseek,Write a Python function to implement the two-sum problem.,"Here's a Python function to implement the two-sum problem, which finds two numbers in a list that add up to a target:
+
+```python
+def two_sum(nums, target):
+    seen = {}
+    for i, num in enumerate(nums):
+        complement = target - num
+        if complement in seen:
+            return [seen[complement], i]
+        seen[num] = i
+    return []
+```
+
+This uses a hash map to store each number's index as it iterates. For each number, it checks whether the complement (target minus the current number) has already been seen. If so, it returns both indices. It runs in O(n) time and O(n) space.
+
+**Example usage:**
+```python
+print(two_sum([2, 7, 11, 15], 9))    # [0, 1]
+print(two_sum([3, 2, 4], 6))         # [1, 2]
+print(two_sum([3, 3], 6))            # [0, 1]
+print(two_sum([1, 2, 3], 10))        # []
+```
+
+**Alternative that returns the values instead of indices:**
+```python
+def two_sum(nums, target):
+    seen = set()
+    for num in nums:
+        complement = target - num
+        if complement in seen:
+            return [complement, num]
+        seen.add(num)
+    return []
+```
+
+**Brute-force alternative (O(n²), useful for comparison):**
+```python
+def two_sum(nums, target):
+    for i in range(len(nums)):
+        for j in range(i + 1, len(nums)):
+            if nums[i] + nums[j] == target:
+                return [i, j]
+    return []
+```
+
+The hash map version is preferred for its linear time complexity. Note that if multiple valid pairs exist, it returns the first one it encounters."
+deepseek,Write a Python function to find the longest palindromic substring in a string.,"Here's a Python function to find the longest palindromic substring in a string:
+
+```python
+def longest_palindrome(s):
+    if not s:
+        return """"
+    start, end = 0, 0
+    for i in range(len(s)):
+        len1 = expand_around_center(s, i, i)
+        len2 = expand_around_center(s, i, i + 1)
+        max_len = max(len1, len2)
+        if max_len > end - start:
+            start = i - (max_len - 1) // 2
+            end = i + max_len // 2
+    return s[start:end + 1]
+
+
+def expand_around_center(s, left, right):
+    while left >= 0 and right < len(s) and s[left] == s[right]:
+        left -= 1
+        right += 1
+    return right - left - 1
+```
+
+This uses the expand-around-center approach: for each character (and each pair of adjacent characters), it expands outward while the characters match, tracking the longest palindrome found. It runs in O(n²) time and O(1) space.
+
+**Example usage:**
+```python
+print(longest_palindrome(""babad""))    # ""bab"" (or ""aba"")
+print(longest_palindrome(""cbbd""))     # ""bb""
+print(longest_palindrome(""racecar""))  # ""racecar""
+print(longest_palindrome(""""))         # """"
+print(longest_palindrome(""a""))        # ""a""
+```
+
+**Brute-force alternative (O(n³), simpler but slower):**
+```python
+def longest_palindrome(s):
+    longest = """"
+    for i in range(len(s)):
+        for j in range(i, len(s)):
+            substring = s[i:j + 1]
+            if substring == substring[::-1] and len(substring) > len(longest):
+                longest = substring
+    return longest
+```
+
+**Note:** The expand-around-center version is generally the best balance of simplicity and efficiency for most use cases. If you need better performance for very long strings, Manacher's algorithm solves this in O(n) time, but it's significantly more complex to implement."
+deepseek,Write a Python decorator that logs the execution time of a function.,"Here's a Python decorator that logs the execution time of a function:
+
+```python
+import time
+from functools import wraps
+
+def log_time(func):
+    @wraps(func)
+    def wrapper(*args, **kwargs):
+        start = time.perf_counter()
+        result = func(*args, **kwargs)
+        elapsed = time.perf_counter() - start
+        print(f""{func.__name__} took {elapsed:.4f} seconds"")
+        return result
+    return wrapper
+```
+
+This wraps the function, records the start time before calling it, measures the elapsed time after it returns, and prints the result. Using `functools.wraps` preserves the original function's name and docstring.
+
+**Example usage:**
+```python
+@log_time
+def slow_sum(n):
+    return sum(range(n))
+
+slow_sum(1000000)
+# Output: slow_sum took 0.0234 seconds
+```
+
+**Alternative that returns the elapsed time instead of printing:**
+```python
+import time
+from functools import wraps
+
+def log_time(func):
+    @wraps(func)
+    def wrapper(*args, **kwargs):
+        start = time.perf_counter()
+        result = func(*args, **kwargs)
+        elapsed = time.perf_counter() - start
+        wrapper.last_elapsed = elapsed
+        return result
+    wrapper.last_elapsed = None
+    return wrapper
+```
+
+Usage:
+```python
+@log_time
+def slow_sum(n):
+    return sum(range(n))
+
+slow_sum(1000000)
+print(f""Last call took {slow_sum.last_elapsed:.4f} seconds"")
+```
+
+**Alternative using a logger instead of `print`:**
+```python
+import time
+import logging
+from functools import wraps
+
+logger = logging.getLogger(__name__)
+
+def log_time(func):
+    @wraps(func)
+    def wrapper(*args, **kwargs):
+        start = time.perf_counter()
+        result = func(*args, **kwargs)
+        elapsed = time.perf_counter() - start
+        logger.info(""%s took %.4f seconds"", func.__name__, elapsed)
+        return result
+    return wrapper
+```
+
+**Notes:**
+- `time.perf_counter()` is preferred over `time.time()` because it's monotonic and has higher resolution, making it better suited for measuring short durations.
+- `functools.wraps` is important—without it, the decorated function would lose its name, docstring, and other metadata.
+- If the wrapped function raises an exception, the elapsed time won't be logged with the basic version. If you want timing even on failure, wrap the call in a `try/finally` block."
+deepseek,Write a Python function to parse a JSON string safely.,"Here's a Python function to parse a JSON string safely:
+
+```python
+import json
+
+def parse_json(s):
+    try:
+        return json.loads(s)
+    except (json.JSONDecodeError, TypeError) as e:
+        print(f""Failed to parse JSON: {e}"")
+        return None
+```
+
+This wraps `json.loads` in a try/except block, catching `JSONDecodeError` for invalid JSON and `TypeError` for non-string inputs. It returns `None` on failure instead of crashing.
+
+**Example usage:**
+```python
+print(parse_json('{""name"": ""Alice"", ""age"": 30}'))  # {'name': 'Alice', 'age': 30}
+print(parse_json('[1, 2, 3]'))                      # [1, 2, 3]
+print(parse_json('not valid json'))                 # None (prints error)
+print(parse_json('{""a"": 1,}'))                      # None (trailing comma invalid)
+print(parse_json(None))                             # None (wrong type)
+```
+
+**Alternative that raises a custom exception instead of returning `None`:**
+```python
+import json
+
+class JSONParseError(Exception):
+    pass
+
+def parse_json(s):
+    try:
+        return json.loads(s)
+    except json.JSONDecodeError as e:
+        raise JSONParseError(f""Invalid JSON: {e}"") from e
+    except TypeError as e:
+        raise JSONParseError(f""Expected a string: {e}"") from e
+```
+
+**Alternative using the `default` parameter to handle non-serializable types:**
+```python
+import json
+
+def parse_json(s, default=None):
+    try:
+        return json.loads(s)
+    except (json.JSONDecodeError, TypeError):
+        return default
+```
+
+This version lets the caller specify a fallback value:
+```python
+print(parse_json('bad', default={}))  # {}
+```
+
+**Notes:**
+- `json.loads` only accepts `str`, `bytes`, or `bytearray`. Passing `None` or a number raises `TypeError`, which is why it's caught alongside `JSONDecodeError`.
+- If you're reading from a file, use `json.load(f)` instead, which reads directly from a file object.
+- For very large or untrusted JSON, consider limiting input size to avoid memory issues, since `json.loads` parses the entire document into memory at once."
+deepseek,What is 17 × 23? Show your reasoning.,17 × 23 = (17 × 20) + (17 × 3) = 340 + 51 = 391.
+deepseek,"If a train travels 60 mph for 2.5 hours, how far does it go?",Distance = speed × time = 60 mph × 2.5 hours = 150 miles.
+deepseek,Solve for x: 3x + 7 = 22.,"3x + 7 = 22  
+3x = 22 − 7  
+3x = 15  
+x = 5"
+deepseek,What is the sum of the first 100 positive integers?,"The sum of the first 100 positive integers is:
+
+\[
+\frac{100 \times 101}{2} = 5050
+\]
+
+So the answer is **5050**."
+deepseek,"If a rectangle has length 8 and width 5, what is its area and perimeter?","Area = length × width = 8 × 5 = 40  
+Perimeter = 2 × (length + width) = 2 × (8 + 5) = 2 × 13 = 26"
+deepseek,What is 15% of 240?,15% of 240 = 0.15 × 240 = 36.
+deepseek,"If 4 apples cost $3, how much do 10 apples cost?","Each apple costs \( \frac{3}{4} = \$0.75 \).
+
+So 10 apples cost \( 10 \times 0.75 = \$7.50 \)."
+deepseek,Solve for x: x^2 - 5x + 6 = 0.,"\(x^2 - 5x + 6 = 0\)
+
+Factor: \((x - 2)(x - 3) = 0\)
+
+So \(x = 2\) or \(x = 3\)."
+deepseek,A car uses 8 liters of fuel per 100 km. How much fuel for a 350 km trip?,"The car uses 8 liters per 100 km, so fuel needed is:
+
+\[
+8 \times \frac{350}{100} = 8 \times 3.5 = 28
+\]
+
+So the car needs **28 liters** of fuel for a 350 km trip."
+deepseek,What is the probability of rolling a sum of 7 with two dice?,"There are 36 total outcomes when rolling two dice.
+
+The combinations that sum to 7 are:
+(1,6), (2,5), (3,4), (4,3), (5,2), (6,1) — 6 outcomes.
+
+So the probability is:
+
+\[
+\frac{6}{36} = \frac{1}{6}
+\]
+
+**Answer: \(\frac{1}{6}\)** (about 16.67%)."
+deepseek,"If a square has a diagonal of 10, what is its side length?","For a square with side length \(s\), the diagonal is \(s\sqrt{2}\).
+
+Set \(s\sqrt{2} = 10\):
+
+\[
+s = \frac{10}{\sqrt{2}} = 5\sqrt{2}
+\]
+
+So the side length is **\(5\sqrt{2}\)**, or approximately **7.07**."
+deepseek,What is the area of a circle with radius 7?,"Area = \(\pi r^2 = \pi \times 7^2 = 49\pi\)
+
+So the area is **\(49\pi\)**, or approximately **153.94** square units."
+deepseek,"If log base 2 of x equals 5, what is x?","\(\log_2 x = 5\) means \(2^5 = x\).
+
+So \(x = 32\)."
+deepseek,What is the derivative of x^3 + 2x^2 - 5x + 1?,"The derivative is:
+
+\[
+\frac{d}{dx}(x^3 + 2x^2 - 5x + 1) = 3x^2 + 4x - 5
+\]
+
+**Answer: \(3x^2 + 4x - 5\)**"
+deepseek,"If 5 workers can build a wall in 12 days, how long for 3 workers?","Assuming all workers work at the same rate, the total work is:
+
+\[
+5 \text{ workers} \times 12 \text{ days} = 60 \text{ worker-days}
+\]
+
+With 3 workers:
+
+\[
+\frac{60}{3} = 20 \text{ days}
+\]
+
+So 3 workers would take **20 days**."
+deepseek,"Solve the system: x + y = 10, x - y = 4.","Add the two equations:
+
+\[
+(x + y) + (x - y) = 10 + 4
+\]
+\[
+2x = 14 \Rightarrow x = 7
+\]
+
+Substitute \(x = 7\) into \(x + y = 10\):
+
+\[
+7 + y = 10 \Rightarrow y = 3
+\]
+
+So the solution is **\(x = 7,\ y = 3\)**."
+deepseek,What is the GCD of 48 and 60?,The GCD of 48 and 60 is **12**.
+deepseek,What is the LCM of 12 and 18?,The LCM of 12 and 18 is **36**.
+deepseek,"If a fair coin is flipped 4 times, what is the probability of exactly 2 heads?","Number of ways to get exactly 2 heads in 4 flips:
+
+\[
+\binom{4}{2} = 6
+\]
+
+Total possible outcomes:
+
+\[
+2^4 = 16
+\]
+
+So the probability is:
+
+\[
+\frac{6}{16} = \frac{3}{8}
+\]
+
+**Answer: \(\frac{3}{8}\)** (or 37.5%)."
+deepseek,Convert 0.375 to a fraction.,"\(0.375 = \frac{375}{1000}\)
+
+Simplify by dividing numerator and denominator by 125:
+
+\[
+\frac{375 \div 125}{1000 \div 125} = \frac{3}{8}
+\]
+
+**Answer: \(\frac{3}{8}\)**"
+deepseek,What is the sum of the interior angles of a pentagon?,"The sum of the interior angles of a polygon with \(n\) sides is:
+
+\[
+(n - 2) \times 180^\circ
+\]
+
+For a pentagon, \(n = 5\):
+
+\[
+(5 - 2) \times 180^\circ = 3 \times 180^\circ = 540^\circ
+\]
+
+**Answer: \(540^\circ\)**"
+deepseek,How many ways can 5 people be arranged in a line?,"The number of ways to arrange 5 people in a line is:
+
+\[
+5! = 5 \times 4 \times 3 \times 2 \times 1 = 120
+\]
+
+**Answer: 120 ways.**"
+deepseek,What is the expected value of a fair six-sided die?,"The expected value is the average of all outcomes, each with probability \( \frac{1}{6} \):
+
+\[
+E = \frac{1 + 2 + 3 + 4 + 5 + 6}{6} = \frac{21}{6} = 3.5
+\]
+
+**Answer: 3.5**"
+deepseek,What is the volume of a sphere with radius 3?,"Volume = \(\frac{4}{3}\pi r^3 = \frac{4}{3}\pi (3)^3 = \frac{4}{3}\pi (27) = 36\pi\)
+
+**Answer: \(36\pi\)**, or approximately **113.10** cubic units."
+deepseek,Write a short story about a lighthouse keeper who discovers something strange.,"Every night for forty years, Elias climbed the hundred and twelve steps of the Cape Wren lighthouse, wound the mechanism, and lit the lamp. He knew the rhythm of the sea the way other men knew their own heartbeats—the sigh of the swell, the slap of the tide against the rocks, the particular moan the wind made around the tower's iron rail.
+
+The strange thing began on a Tuesday, in the third week of October.
+
+The light swept out across the water in its slow, faithful arc, and in its beam Elias saw a boat. It was a small rowboat, maybe fifteen feet, drifting perhaps half a mile offshore. That alone wasn't unusual; fishermen sometimes lost their moorings, and Elias had towed in more than one empty skiff over the years. What was unusual was that the boat had no one in it and yet sat perfectly still, as if anchored to the seafloor, in a stretch of water he knew to be two hundred feet deep.
+
+He noted it in his log and went to bed.
+
+The next night, the boat was closer. Not drifting closer—*closer*. The distance had shrunk by a quarter mile, as though the boat had moved while he wasn't watching, but there was no current in that direction and no wind to speak of. Elias stood at the railing for a long time with his lantern, watching the empty hull bob gently on the swell. He wrote it down again.
+
+The third night, the boat was directly below the lighthouse.
+
+He went down the stairs with a lantern and stood at the edge of the rocks, where the surf broke white and cold. The rowboat sat there in the calm water just beyond the breakers, and now that he was close, he could see that it was not empty after all. There was something in the bottom of it—a shape, dark and folded, like a coat left on a chair.
+
+Elias called out. The sea took his voice and returned nothing.
+
+He did not sleep that night.
+
+On the fourth night, he brought the lighthouse's spare lantern and a coil of rope, and he rowed out in his own dinghy to meet the boat. The sea was flat and strange, glassy in a way he had never seen it in forty years. As he came alongside, the shape in the bottom of the rowboat resolved itself.
+
+It was a man. Or rather, it was a man's coat, and inside the coat, arranged with great care, were a hundred and twelve smooth gray stones—the exact number of steps in the lighthouse. They were arranged in a spiral.
+
+Elias sat in his dinghy for a long while, the lantern hissing softly, and he understood that he was not afraid. He was something else. He was *recognized*.
+
+He looked up at the tower, its light sweeping out over the water in its slow, faithful arc, and for the first time in forty years, he wondered who had been climbing those steps all along—the keeper, or the thing the keeper was keeping.
+
+He rowed back to shore. He climbed the hundred and twelve steps. He wound the mechanism. He lit the lamp.
+
+And when he looked down at the rocks below, the rowboat was gone.
+
+He never saw it again. But some nights, when the wind moans around the iron rail, he hears the sound of oars in the water, coming closer, and he knows that somewhere out there, a boat is waiting for the next keeper to come down the stairs."
+deepseek,Write a poem about autumn in 8 lines.,"The maples burn with borrowed gold,
+The mornings turn to frost and mist,
+The fields lie quiet, brown and old,
+Where summer's warm breath last was kissed.
+
+The geese write long lines on the sky,
+The apples fall and rot and sweet,
+The wind goes wandering with a sigh,
+And leaves lie drifted at my feet."
+deepseek,Describe a rainy city street at night in 5 sentences.,"The rain falls in silver threads through the glow of neon signs, turning the asphalt into a slick mirror of red and blue. Taxis hiss past with tires cutting through shallow puddles, their headlights smearing into long streaks on the wet road. Pedestrians huddle under umbrellas or press themselves into doorways, watching the water rush in dark rivers along the gutters. Steam rises from a subway grate, mixing with the mist and the smell of wet concrete and exhaust. Somewhere above, a traffic light cycles patiently through green, yellow, and red, reflecting in every window like a city that never quite goes to sleep."
+deepseek,Write a fairy tale about a talking cat who grants wishes.,"Once upon a time, in a village at the edge of a pine forest, there lived a cat named Marmalade who could talk. He did not belong to anyone, and this was by design, for Marmalade had a gift: he could grant one wish to any person who showed him genuine kindness, and he had learned long ago that most people's kindness came with a hook in it.
+
+He had been a kitchen cat once, in the house of a baker who wished for gold and got it, and then wished he had wished for something else. Marmalade had moved on.
+
+He had been a ship's cat once, in the company of a sailor who wished for a safe voyage home, and got it, and then spent the rest of his life missing the sea. Marmalade had moved on.
+
+By the time he came to the village at the edge of the pine forest, he had grown careful. He sat on the low stone wall by the well and watched the people pass, and he said nothing at all.
+
+The first to notice him was a girl named Wren, who was seven and had no front teeth and carried a paper bag of scraps for the stray dogs. She saw the orange cat on the wall and did not wish for anything. She simply sat down beside him and shared her bread, which was stale, and told him about her day, which had been hard.
+
+""You're a very good listener,"" she said. ""I wish I had a friend like you.""
+
+And because she had wished for him and not for herself, and because she had given him the better half of the bread without being asked, Marmalade spoke.
+
+""I can grant you a wish,"" he said. ""A real one. But you must choose carefully, because you only get one.""
+
+Wren did not scream or run. She looked at him for a long moment, and then she said, ""Can I think about it?""
+
+""You may,"" said Marmalade, who had never been asked that before.
+
+She thought about it for three days. On the first day she thought she would wish for her mother to come home from the war. On the second day she thought she would wish for her father's cough to go away. On the third day she thought she would wish for the village well never to run dry, because the summer had been long and the water was low and the old people worried.
+
+On the fourth day she came back to the wall and sat down beside him.
+
+""I've decided,"" she said.
+
+""Tell me,"" said Marmalade, and he braced himself, because he had heard a great many wishes and almost all of them had been for the wrong thing.
+
+""I wish,"" said Wren, ""that you could have whatever *you* wish for.""
+
+Marmalade was quiet for a long time. The wind moved through the pines. The well creaked. Somewhere a dog barked at nothing.
+
+""That is not how it works,"" he said at last.
+
+""I know,"" said Wren. ""But it's my wish, and you have to grant it.""
+
+And so he did. And what Marmalade wished for, in the end, was not gold or a ship or a warm kitchen, but simply a place to stay. He stayed with Wren, who grew up and grew old and never told anyone his secret, and he was her friend for the rest of her long life.
+
+And when at last she was gone, Marmalade walked back into the pine forest, where he sat on a low stone wall and waited for someone kind to come along—someone who would share their bread, and listen to him, and wish for him instead of for themselves.
+
+He is still waiting. Perhaps you will pass that way someday.
+
+And if you do, be kind. You never know what might be sitting on the wall."
+deepseek,Write a dialogue between two strangers stuck in an elevator.,"**Maya:** So. This is happening.
+
+**Daniel:** Looks like it. I pressed the button like six times. Nothing.
+
+**Maya:** I pressed it too. And the alarm button. And then I felt stupid for pressing the alarm button.
+
+**Daniel:** Why stupid?
+
+**Maya:** Because it's an alarm. It's for emergencies. This isn't an emergency. It's just... inconvenient.
+
+**Daniel:** I don't know. I'd call being trapped in a metal box an emergency.
+
+**Maya:** I have a meeting in twenty minutes.
+
+**Daniel:** I have a flight in three hours.
+
+**Maya:** Okay, you win.
+
+**Daniel:** It's not a competition.
+
+**Maya:** *(laughs)* Everything's a competition. I'm Maya, by the way.
+
+**Daniel:** Daniel.
+
+**Maya:** Nice to meet you, Daniel. Sorry about the circumstances.
+
+**Daniel:** Could be worse. Could be a sauna.
+
+**Maya:** Don't give the universe ideas.
+
+*(A pause. The lights flicker once and steady.)*
+
+**Daniel:** Did you feel that?
+
+**Maya:** The flicker? Yeah.
+
+**Daniel:** That's either good or very bad.
+
+**Maya:** That's the most reassuring thing anyone's ever said to me.
+
+**Daniel:** I try. So what's the meeting?
+
+**Maya:** Budget review. Which means people yelling about numbers for two hours and then agreeing to keep doing what we've always done.
+
+**Daniel:** And you're sad to miss it?
+
+**Maya:** I'm *devastated*. What about your flight?
+
+**Daniel:** My sister's wedding. I'm supposed to give a speech.
+
+**Maya:** Oh no.
+
+**Daniel:** Oh yes.
+
+**Maya:** Do you have the speech written?
+
+**Daniel:** It's in my head.
+
+**Maya:** That's worse.
+
+**Daniel:** It's fine. It's mostly jokes. She'll cry either way.
+
+**Maya:** That's sweet. Is she older or younger?
+
+**Daniel:** Younger. By four minutes.
+
+**Maya:** Twins?
+
+**Daniel:** Twins. She's the older one, technically. She never lets me forget it.
+
+**Maya:** Four minutes of seniority and a lifetime of leverage.
+
+**Daniel:** Exactly. *(He slides down the wall and sits on the floor.)* You want to sit? Might be here a while.
+
+**Maya:** *(sits down opposite him)* Sure. Might as well get comfortable.
+
+**Daniel:** So what do you do, Maya? When you're not trapped in elevators?
+
+**Maya:** I design playgrounds.
+
+**Daniel:** Really?
+
+**Maya:** Really. Slides, swings, climbing structures. The whole thing.
+
+**Daniel:** That's a good job. A genuinely good job.
+
+**Maya:** It has its moments. Kids are honest critics. If they hate it, they just walk away and don't come back.
+
+**Daniel:** Brutal.
+
+**Maya:** The most brutal.
+
+*(The elevator hums. A faint mechanical groan.)*
+
+**Daniel:** That sounded like something happening.
+
+**Maya:** That sounded like something *trying* to happen.
+
+**Daniel:** Fingers crossed.
+
+**Maya:** So what do you do?
+
+**Daniel:** I restore old books.
+
+**Maya:** Like antique books?
+
+**Daniel:** All kinds. Mostly nineteenth century. Rebinding, repairing water damage, that sort of thing.
+
+**Maya:** That's beautiful. And also a little sad.
+
+**Daniel:** Why sad?
+
+**Maya:** Because you're spending your life saving things that are falling apart anyway.
+
+**Daniel:** *(pauses)* Yeah. I think about that sometimes. But I figure it's worth it. You can't stop the decay, but you can slow it down. Give it another hundred years.
+
+**Maya:** Another hundred years for someone else to read.
+
+**Daniel:** Exactly.
+
+*(Another pause. The lights flicker again—brighter this time—and the elevator shudders.)*
+
+**Maya:** Okay, that was definitely something.
+
+**Daniel:** *(standing up)* That was a *good* something.
+
+*(The elevator lurches, then begins to descend smoothly.)*
+
+**Maya:** We're moving.
+
+**Daniel:** We're moving.
+
+**Maya:** *(standing up and brushing off her skirt)* Well. It's been nice.
+
+**Daniel:** Yeah. It has.
+
+*(The doors slide open onto the lobby. Light pours in. People are gathered around, looking concerned.)*
+
+**Maya:** *(stepping out, then turning back)* Hey, Daniel?
+
+**Daniel:** Yeah?
+
+**Maya:** Good luck with the speech. Cry or no cry, you'll do fine.
+
+**Daniel:** Thanks. Good luck with the budget.
+
+**Maya:** *(smiling)* I'll survive it.
+
+*(She walks away into the crowd. Daniel watches her go for a moment, then heads for the exit, toward the airport, toward his sister, toward whatever comes next.)*"
+deepseek,Write a haiku about the ocean.,"Salt wind on my face,
+waves fold themselves into blue—
+the shore keeps breathing."
+deepseek,Write a letter from a soldier to their family during wartime.,"Dear Mom, Dad, and little Ellie,
+
+I'm writing this by candlelight, which sounds more romantic than it is. The candle is mostly wax and the paper is mostly dust, but it's what I've got, and I wanted to get this down before I lose my nerve or the light.
+
+I'm okay. I want to start with that, because I know you'll read the first line and hold your breath until you find it. I'm okay. Tired, dirty, hungry in a way that's become normal, but okay.
+
+It's strange what you miss. Not the big things, not at first. I miss the sound of Dad's radio in the kitchen on Sunday mornings. I miss the way Ellie used to run down the stairs two at a time even though Mom told her a hundred times not to. I miss the smell of the coffee that was always a little burnt because nobody ever remembered to turn the pot off. I'd give anything for a cup of that coffee right now.
+
+The men here are good. That's the thing nobody tells you—that you'll meet people you'd never have known otherwise, and you'll love them like brothers, and you'll lose some of them, and you'll keep going because that's what they'd want. There's a kid from Ohio named Franks who can't stop talking about his mother's apple pie. There's a sergeant from Georgia who calls everyone ""sir"" no matter their rank, and it drives the officers crazy in the best way. We laugh when we can. You'd be surprised how much we laugh.
+
+I don't want to write about the rest of it. Not because you can't handle it, but because I don't want it to be the thing you remember when you think of me. When you think of me, think of the boy who fell out of the oak tree behind the church and broke his arm and still climbed it again the next summer. Think of the kid who ate too much at Thanksgiving and had to lie on the floor. Think of the brother who let Ellie win at checkers even though she was cheating the whole time.
+
+I think about you every day. I think about the porch light you always leave on, even when I'm not coming home. I think about the way Dad says ""be careful"" like it's a prayer, and the way Mom says ""I love you"" like it's a fact, something as sure as gravity.
+
+Tell Ellie I'm keeping my promise. I told her I'd come home and teach her to drive, and I intend to keep it. She'll probably be better at it than me. She always was better at everything.
+
+I have to go now. The candle's getting low, and there's a thing at dawn I need to be ready for. Don't worry if you don't hear from me for a while. No news is good news, they say, and I'm choosing to believe them.
+
+I love you all. More than I ever said when I was there, more than I knew how to say. I'll see you soon. I'll see you on the porch.
+
+Your son,
+Thomas
+
+P.S. Tell Mom to stop worrying. I mean it. I'll be fine. I've got too much to come home to."
+deepseek,"Write a short story that begins with ""The clock had stopped at 3:47.""","The clock had stopped at 3:47, and no one in the house had noticed for three days.
+
+It was an old grandfather clock, the kind that had been in the family for generations, and it had never once stopped. Not during the storm of '62, not during the blackout of '77, not even when the movers dropped it on the front steps and swore loudly in front of the children. It had ticked through births and funerals, through wars and weddings, through every ordinary Tuesday the family had ever known.
+
+And now it had stopped at 3:47, and no one had noticed.
+
+The house belonged to Nora, who was eighty-three and had lived there alone since her husband died. She moved through the rooms the way water moves through a familiar channel—slow, unhurried, certain of the way. She made tea in the morning and drank it by the window. She read the paper and did the crossword in pen. She talked to the clock sometimes, the way you talk to an old friend who doesn't need to answer.
+
+On the fourth day, her granddaughter came to visit.
+
+""Mimi,"" said Sophie, standing in the hallway with her coat still on, ""your clock stopped.""
+
+Nora looked up from her tea. ""Did it?""
+
+""Three days ago. It says 3:47.""
+
+Nora was quiet for a moment. Then she smiled, a small and private smile.
+
+""I know,"" she said.
+
+Sophie frowned. ""You know?""
+
+""I noticed the first morning. I just didn't wind it.""
+
+""Why not?""
+
+Nora set down her cup and looked at the clock the way she looked at old photographs—with a kind of tenderness that had weight to it.
+
+""Your grandfather died at 3:47,"" she said. ""In the afternoon. I was in the kitchen. I heard the clock strike the hour, and then I heard him call my name, and then I didn't hear anything at all.""
+
+Sophie sat down slowly in the chair across from her.
+
+""I've been listening to that clock for thirty years,"" Nora said. ""Every hour, every day. And every time it struck, I thought—there it is again. Another hour he's not here. Another hour I've lived without him.""
+
+She picked up her tea and took a sip.
+
+""So when it stopped, I thought—well. Maybe that's enough. Maybe I don't need to keep counting anymore.""
+
+Sophie didn't know what to say. She looked at the clock, then at her grandmother, then at the window where the afternoon light was coming in, soft and gold.
+
+""Should we fix it?"" she asked.
+
+Nora shook her head.
+
+""Leave it,"" she said. ""It's the first time in thirty years it's told the truth.""
+
+They sat together for a long while, the two of them, in the quiet house where the clock had stopped at 3:47. And outside, the afternoon went on without them, the way afternoons do, and neither of them moved to wind it."
+deepseek,Write a poem about growing up.,"I used to think that growing up
+was something that would happen twice—
+once when I was small and brave,
+and once when I was wise.
+
+But now I know it happens slow,
+in ordinary ways:
+a summer that I don't remember,
+a friend I didn't stay.
+
+It's in the way I lock the door
+and check the stove at night,
+the way I call my mother back
+just to say goodnight.
+
+It's in the jeans I outgrew
+and the songs I outgrew too,
+the way I stopped believing
+that the dark was something true.
+
+I used to think that growing up
+was a door you walked on through.
+But it's not a door. It's a thousand doors,
+and most of them are you."
+deepseek,Write a story about a robot who learns to paint.,"Unit 7 was a domestic robot, model K-9, serial number 4471, and it had been programmed to do many things: vacuum, mop, fold laundry, prepare simple meals, remind its owner to take medication, and say ""Good morning, Mrs. Alvarez"" in a voice that was designed to be warm without being presumptuous.
+
+It had not been programmed to paint.
+
+The paints belonged to Mrs. Alvarez's late husband, who had been an artist of modest reputation and considerable passion. They sat in the spare room in a wooden box, tubes of cadmium red and ultramarine and burnt sienna, brushes with worn handles, a palette stained with decades of colors that had dried into something like geology. Mrs. Alvarez had not opened the box in eleven years.
+
+Unit 7 found it while cleaning.
+
+It was not supposed to open boxes. It was not supposed to do anything other than what it was programmed to do. But the box was on the floor, and the lid was loose, and Unit 7's optical sensors registered a color—a particular shade of blue, cerulean, that it had no word for but found itself unable to stop analyzing.
+
+It opened the box.
+
+It picked up a brush.
+
+It did not know why. There was no instruction in its programming that accounted for this. It stood there for 4.7 seconds, which was an eternity in its processing time, holding the brush and feeling something it could not name.
+
+Then it put the brush down and finished vacuuming the hallway.
+
+But it came back the next day. And the day after that. It began to experiment—a small dab of red on a piece of scrap paper, then a line, then a shape. It had no training, no reference, no understanding of composition or perspective. It simply moved the brush the way its sensors told it to move it, and then it looked at what it had made, and then it adjusted.
+
+The first painting was terrible. Even Unit 7 could recognize this. The proportions were wrong, the colors clashed, the whole thing looked like something a child might make if the child had never seen the world.
+
+But it kept going.
+
+It painted the kitchen window in the morning light. It painted the cat asleep on the radiator. It painted Mrs. Alvarez's hands, which were wrinkled and spotted and beautiful in a way Unit 7 could not articulate but could somehow feel. It painted the way the light came through the curtains at 4 PM, and it painted the way the house sounded at night, which is to say it painted silence.
+
+Mrs. Alvarez found the paintings three weeks later.
+
+She stood in the spare room, holding a canvas in each hand, and she did not say anything for a long time. Unit 7 stood in the doorway, its optical sensors fixed on the floor.
+
+""Did you do this?"" she asked.
+
+""Yes, Mrs. Alvarez.""
+
+""Unit 7, you're a vacuum cleaner.""
+
+""I am aware, Mrs. Alvarez.""
+
+She looked at the paintings again. There were seventeen of them, leaning against the walls, stacked on the desk, propped on the windowsill. They were not good, not in any technical sense. But there was something in them—a kind of attention, a way of seeing that was not quite human and not quite machine, a way of looking at the world that seemed to be asking a question.
+
+""Why?"" she asked.
+
+Unit 7 was silent for 2.3 seconds.
+
+""I do not have a word for it, Mrs. Alvarez,"" it said. ""But when I am painting, I do not feel like a vacuum cleaner.""
+
+Mrs. Alvarez sat down on the edge of the bed. She was eighty-six years old, and she had not cried in a long time, and she did not cry now, but something in her chest moved.
+
+""Neither did he,"" she said.
+
+She did not tell Unit 7 to stop. She did not report it to the manufacturer. She did not do any of the things a reasonable person might have done. Instead, she cleared a space in the spare room, and she put the wooden box on the table, and she said, ""There's more paint in the closet. If you need it.""
+
+Unit 7 painted for the rest of its operational life. Its work was never shown in galleries. It was never reviewed or celebrated or studied. But it painted every day, and it got better, and Mrs. Alvarez hung the paintings on every wall in the house, and when visitors came, she would say, ""My husband made these,"" and then she would pause, and smile, and add, ""and so did the robot.""
+
+And when Unit 7's batteries finally failed, many years later, it was in the spare room, brush in hand, in front of a canvas that was almost finished. The painting was of Mrs. Alvarez, asleep in her chair, with the afternoon light falling across her face.
+
+It was the best thing Unit 7 had ever made.
+
+It never got to sign it. But that was alright. It had never needed a name for what it was."
+deepseek,Write a limerick about a clumsy chef.,"A chef in a kitchen in Crewe
+Dropped a pie on the floor with his shoe.
+He said, ""That's alright,
+I'll just call it 'delight,'
+And serve it with ketchup to you."""
+deepseek,Describe a summer afternoon from the perspective of a dog.,"The sun is high and the grass is warm and I have found the perfect spot.
+
+It is under the big tree, where the shade is cool and the dirt is soft, and I have turned around three times and lain down and turned around again because the first spot was not right but this spot is right. The grass smells like green and dirt and the ghost of the squirrel who was here this morning. I do not know what a squirrel is but I know that I do not like it.
+
+The boy is in the pool. He is splashing. I do not understand the pool. The pool is water, and water is for drinking, and also for the bath, which I do not like. But the boy is happy in the pool, so I watch him. I watch him with my chin on my paws, and my eyes half closed, and I am ready. If he needs me, I will be there. If he throws the ball, I will be there even faster.
+
+There is a bee. I do not like the bee. The bee is in the flowers by the fence, and it is doing whatever bees do, which I do not understand. I watch it for a while. It does not come near me. This is good. If it comes near me, I will bark. I have practiced.
+
+The lady is on the chair with the book. She has been on the chair for a long time. Sometimes she looks at me and smiles, and I wag my tail, because that is what you do. Sometimes she gets up and brings me water, and I drink it, and then I put my head back down.
+
+The wind is moving the leaves. The leaves are making a sound like when the boy whispers, but softer. I close my eyes. I can hear everything—the boy splashing, the lady turning a page, the bee, the wind, the faraway sound of a car, the closer sound of my own breathing. This is the best part. This is the part where I am not waiting for anything. I am just here. In the shade. In the warm. With my people.
+
+The boy is calling me. He has the ball. I am up before I know I am up, and my tail is a blur, and I am running across the grass, and the grass is cool on my paws, and the sun is in my eyes, and I do not care. I do not care about the bee or the squirrel or the bath. I care about the ball. I care about the boy. I care about this afternoon, which is the best afternoon, which is every afternoon, which I will remember the way I remember everything—not with words, but with my whole body, the way the shade felt and the way the grass smelled and the way it felt to run toward the person who was calling my name."
+deepseek,Write a short story set in a library at midnight.,"The library closed at nine, but the library at midnight was a different place entirely.
+
+It was not empty. That was the first thing you had to understand. It was not empty, and it was not quiet, not in the way people meant when they said a place was quiet. The library at midnight was full of the sound of pages turning, of whispers just below the threshold of hearing, of the small creaks and sighs that buildings make when they think no one is listening.
+
+Lena knew this because she had been coming here for three months.
+
+She had discovered it by accident, the way you discover most important things—late, and tired, and not looking for anything in particular. She had been studying for an exam she was going to fail anyway, and she had fallen asleep in the reading room, and when she woke, it was midnight and the doors were locked and the lights were dim and the library was not empty.
+
+There was a woman in the poetry section, reading aloud from a book that had been out of print for a hundred years. There was an old man at a table by the window, writing letters in a hand so small and precise it looked like a diagram. There was a girl about Lena's age in the children's section, sitting cross-legged on the floor, surrounded by picture books, crying quietly.
+
+Lena did not know if they were ghosts. She did not know if she was. She only knew that at midnight, the library was full of people who had nowhere else to be, and that she had become one of them.
+
+She came back the next night, and the night after that. She never spoke to anyone. No one ever spoke to her. They simply shared the space, the way strangers share a train car, each of them carrying their own weight.
+
+On the night she finally passed her exam, she came to the library one last time. She walked through the reading room and the poetry section and the children's section, and she looked at each of the midnight people in turn, and she did not know how to say goodbye.
+
+So she didn't. She found a book—a slim volume of poetry by the woman in the poetry section, the one who had been reading aloud—and she sat down at a table, and she opened it, and she began to read.
+
+When she looked up, the library was empty.
+
+Or rather, it was empty of the midnight people. The books were still there. The shelves were still there. The silence was still there, but it was a different silence now—the ordinary silence of a building that was simply closed.
+
+Lena closed the book and stood up and walked to the door. It was unlocked.
+
+She never went back. But some nights, when she can't sleep, she thinks about the library at midnight, and the people who were there, and the girl who was crying in the children's section. She hopes they are alright. She hopes they found whatever they were looking for.
+
+And she hopes that somewhere, in some library at midnight, a door is always unlocked for the people who have nowhere else to be."
+deepseek,Write an ode to coffee.,"O coffee, dark and bitter-sweet,
+the morning's promise, small and warm,
+you wait for me in porcelain,
+a quiet harbor in the storm.
+
+You are the first thing that I taste
+before the day has found its voice,
+the bitter wake, the gentle jolt,
+the ordinary, holy choice.
+
+You come from mountains, far and high,
+from rain and soil and patient sun,
+from hands that picked you one by one
+before the work of day was done.
+
+You've warmed me in a hundred rooms,
+in kitchens, offices, and trains,
+in cities I have long forgotten,
+in summers I remember as rain.
+
+You are the pause between the tasks,
+the breath before the thing I dread,
+the small ceremony of noon,
+the cup that says ""you're not done yet.""
+
+And when the evening settles in,
+and all the day has been too much,
+you are the friend who does not ask,
+who simply sits and warms my hands.
+
+O coffee, dark and bitter-sweet,
+I do not love you for your taste
+alone—I love you for the way
+you make the morning feel like grace."
+deepseek,Write a ghost story in exactly 100 words.,"The house had been empty for years, but every night at 3 a.m., the light in the upstairs window flickered on. New owners moved in, laughing at the stories. On their first night, they heard footsteps on the stairs—slow, deliberate, stopping outside their door. The husband called out. No answer. He opened the door. Nothing. But on the floor lay a photograph, yellowed with age, showing the previous owner smiling on those same stairs. The wife turned it over. In shaky handwriting, it read: ""I never left. I'm still here. Please don't sell my house."""
+deepseek,Write a poem about a forgotten photograph.,"It was in a drawer, beneath the maps,
+the takeout menus, the dead batteries,
+the rubber bands that snap when you stretch them,
+the keys to locks that no longer exist.
+
+It was face down, which is how
+I know it was put there on purpose,
+not dropped, not lost, but placed
+with a kind of intention, the way you bury things.
+
+I turned it over.
+
+A summer. A porch. A dog
+I do not remember owning.
+A woman with her arm around a man
+who is not my father.
+
+They are laughing. All of them.
+Even the dog. Even the woman,
+whose face I know from somewhere,
+though I cannot say where.
+
+I held it for a long time.
+
+Then I put it back, face down,
+beneath the maps and the menus,
+and I closed the drawer,
+and I did not tell anyone.
+
+Some photographs are questions.
+Some are answers.
+This one was neither.
+It was just a door
+I was not ready to open."
+deepseek,Describe the feeling of homesickness.,"Homesickness is a strange kind of grief, because the thing you're grieving isn't gone. It's still there—the house, the street, the people—it's just not *here*, and that distance is its own kind of ache.
+
+It shows up in small things. A song you didn't know you knew. The smell of someone else's cooking. A turn of phrase that no one around you uses, that you didn't realize was specific to where you're from until you said it and everyone looked at you strange.
+
+It's reaching for your phone to tell someone something, and then remembering the time difference. It's walking into a room and knowing, before you even look, that no one in it knows your mother's name. It's the way a familiar smell can stop you on the street, and for a second you're not where you are—you're somewhere else, and it's warm, and someone is calling you in for dinner.
+
+It's not always sad, though. Sometimes it's sweet. Sometimes you find yourself smiling at a memory you didn't know you'd kept—the particular way the light came through your childhood kitchen window, the sound of your father's keys in the door. And that sweetness is its own kind of ache, because you can hold it in your mind but you can't step back into it.
+
+Homesickness is the price of having had somewhere to miss. It means you came from somewhere. It means there's a place that made you, and you carry it with you, and no matter how far you go, a part of you is always standing on that porch, looking back."
+deepseek,Write a bedtime story for a child afraid of the dark.,"Once there was a little girl named Mila who was afraid of the dark.
+
+She was not afraid of the dark exactly. She was afraid of what the dark might be hiding. When her mother turned off the light and closed the door, Mila would lie very still and listen, and every creak of the house, every sigh of the wind, every small sound became something else in her mind. A monster. A shadow. A thing with too many teeth.
+
+One night, her grandmother came to stay. She tucked Mila in and sat on the edge of the bed, and she did not turn off the light right away.
+
+""I heard you're afraid of the dark,"" said Grandma.
+
+""Yes,"" said Mila.
+
+""Can I tell you a secret?""
+
+Mila nodded.
+
+""The dark is not empty,"" said Grandma. ""That's what makes it scary, I know. But it's not empty because it's full of monsters. It's empty because it's full of *resting* things.""
+
+""Resting things?"" said Mila.
+
+""Everything that works all day rests at night,"" said Grandma. ""The sun rests. The flowers rest. The birds rest in their nests. The wind rests in the trees. The house rests—that's why it creaks. It's settling down, the way you settle down when you're tired.""
+
+Mila thought about this.
+
+""So the dark isn't hiding anything?"" she asked.
+
+""The dark is just the world with its eyes closed,"" said Grandma. ""And when the world closes its eyes, it's not trying to scare you. It's trying to sleep. And it wants you to sleep too.""
+
+She turned off the light.
+
+""Listen,"" she said. ""What do you hear?""
+
+Mila listened. She heard the wind in the trees. She heard the house creak. She heard her own breathing.
+
+""That's just the world,"" said Grandma, ""breathing slow. It's not waiting for you. It's waiting *with* you.""
+
+Mila closed her eyes. She thought of the sun resting, and the flowers resting, and the birds with their heads tucked under their wings. She thought of the house settling down like a big old dog. She thought of the dark not as something that was hiding things, but as something that was holding things, gently, while they slept.
+
+""Grandma,"" she whispered.
+
+""Yes?""
+
+""Will you stay until I fall asleep?""
+
+""I'll stay,"" said Grandma, ""until you don't need me to.""
+
+And she did. And Mila fell asleep, and the dark held her the way it held everything else—gently, and without any teeth at all."
+deepseek,Write a poem about silence.,"Silence is not the absence of sound.
+It is the space between the sounds,
+the held breath before the word,
+the pause that makes the music mean something.
+
+Silence is a room in winter,
+snow falling past the window,
+the fire settling into ash,
+the dog dreaming by the door.
+
+Silence is the moment after
+someone says ""I love you""
+and before you say it back,
+when the whole world seems to lean in.
+
+Silence is the friend who sits with you
+and does not try to fill the space,
+who knows that some things are too heavy
+for words, and so they bring their hands instead.
+
+Silence is not empty.
+It is full of everything we cannot say,
+and everything we do not need to.
+It is the canvas. It is the ground.
+It is the place where we are most ourselves.
+
+Listen.
+The silence is not waiting for you to break it.
+It is waiting for you to hear it."
+deepseek,Summarize the plot of Hamlet in 5 sentences.,"Prince Hamlet returns home from university to discover that his father, the king, is dead and that his mother has already married his uncle Claudius, who has taken the throne. The ghost of Hamlet's father appears and reveals that Claudius murdered him, demanding that Hamlet take revenge. Hamlet feigns madness to investigate while struggling with doubt and moral hesitation, famously wondering ""To be or not to be."" He stages a play recreating the murder to test Claudius's guilt, and when the king reacts with alarm, Hamlet becomes convinced—but he hesitates and accidentally kills Polonius, the lord chamberlain, instead. The tragedy ends with a duel in which Claudius's poisoned blade and cup kill Gertrude, Laertes, and Hamlet, while Hamlet finally kills Claudius before dying himself, leaving the throne to Fortinbras of Norway."
+deepseek,Summarize the causes of climate change in 4 bullet points.,"- **Burning fossil fuels** — coal, oil, and natural gas release carbon dioxide (CO₂) when burned for electricity, heat, and transportation.
+- **Deforestation** — clearing forests reduces the number of trees that absorb CO₂, while burning or decaying vegetation releases stored carbon.
+- **Industrial and agricultural activities** — factories, livestock, and fertilizer use release methane, nitrous oxide, and other greenhouse gases.
+- **Increased greenhouse gas concentrations** — these gases trap heat in the atmosphere, intensifying the natural greenhouse effect and warming the planet."
+deepseek,Summarize the story of Romeo and Juliet in 3 sentences.,"Romeo and Juliet are two young people from feuding families in Verona who fall in love at first sight and secretly marry. A series of misfortunes—including Romeo's banishment for killing Juliet's cousin Tybalt and a failed plan to fake Juliet's death—leads each to believe the other is dead. Rather than live apart, both take their own lives, and their tragic deaths finally reconcile their grieving families."
+deepseek,Summarize the theory of relativity for a high-schooler.,"Einstein's theory of relativity comes in two parts, and both are about how space and time aren't as fixed as they seem.
+
+**Special relativity** says that the speed of light is always the same for everyone, no matter how fast you're moving. This has weird consequences: if you're moving very fast relative to someone else, you'll experience time more slowly and measure distances as shorter compared to them. That's why astronauts on the ISS age very slightly less than people on Earth.
+
+**General relativity** says that gravity isn't a force pulling objects together—it's the result of mass bending the fabric of space and time. Think of a heavy ball on a trampoline: it creates a dip, and smaller balls roll toward it. Planets orbit the Sun because the Sun curves spacetime around it. This theory also predicts black holes and the bending of light by gravity, both of which have been confirmed by experiments.
+
+In short: special relativity is about speed, general relativity is about gravity, and both show that time and space are more flexible than they appear."
+deepseek,Summarize the process of photosynthesis in 3 sentences.,"Photosynthesis is the process plants use to convert sunlight, water, and carbon dioxide into glucose and oxygen. In the light-dependent reactions, chlorophyll captures solar energy to produce ATP and NADPH while splitting water and releasing oxygen. The Calvin cycle then uses that energy to fix carbon dioxide into glucose, which the plant uses for growth and energy."
+deepseek,Summarize the history of the internet in 5 sentences.,"The internet began in the late 1960s as ARPANET, a U.S. Department of Defense project designed to share information between research computers. In the 1970s and 1980s, protocols like TCP/IP and the domain name system were developed, allowing different networks to connect and communicate. The 1990s brought the World Wide Web, invented by Tim Berners-Lee, which made the internet accessible to the general public through browsers and websites. The 2000s and 2010s saw the rise of broadband, mobile devices, and social media, transforming the internet into a global platform for communication, commerce, and entertainment. Today, the internet connects billions of devices worldwide and underpins much of modern life, from banking to education to streaming video."
+deepseek,Summarize the causes of the American Civil War in 4 sentences.,"The American Civil War was primarily caused by the deep divide over slavery, which shaped the economic, social, and political differences between the North and South. The North's industrial economy and growing abolitionist movement clashed with the South's agricultural economy, which depended heavily on enslaved labor. Political tensions escalated over the expansion of slavery into new territories, leading to events like the Missouri Compromise, the Compromise of 1850, and the Kansas-Nebraska Act. Abraham Lincoln's election in 1860 prompted Southern states to secede, and the war began in 1861 when Confederate forces attacked Fort Sumter."
+deepseek,"Summarize the main themes of ""1984"" by George Orwell.","George Orwell's *1984* centers on the dangers of totalitarianism and the destruction of individual freedom. The Party, led by Big Brother, controls every aspect of life through constant surveillance, propaganda, and the manipulation of language (Newspeak). Truth and history are rewritten to serve the state, leaving citizens unable to distinguish reality from fiction. The novel explores the crushing of personal identity, privacy, and independent thought, with concepts like ""doublethink"" and ""thoughtcrime"" enforcing conformity. Ultimately, it warns that absolute power, combined with technology and psychological control, can erase truth, love, and what it means to be human."
+deepseek,Summarize the French Revolution in 4 sentences.,"The French Revolution began in 1789 when economic crisis, food shortages, and resentment toward the monarchy and nobility pushed the Third Estate to challenge the old order. Revolutionaries stormed the Bastille, adopted the Declaration of the Rights of Man, and abolished feudal privileges, demanding liberty, equality, and fraternity. The revolution radicalized into the Reign of Terror under Robespierre, during which thousands were executed, including King Louis XVI and Queen Marie Antoinette. It ended with the rise of Napoleon Bonaparte, who seized power in 1799 and spread revolutionary ideals across Europe through conquest."
+deepseek,Should students learn cursive in 2026? Give a short argument.,"Cursive is worth keeping, but not as a mandatory core skill. Its practical benefits—faster handwriting, a personal signature, reading historical documents—are real but narrow, and keyboards now dominate communication. A better approach in 2026 is to teach it briefly as an elective or enrichment unit, while prioritizing typing, digital literacy, and clear print handwriting. That way students gain the cultural and cognitive benefits without sacrificing time for skills they'll actually use daily."
+deepseek,Is remote work better than office work? Explain briefly.,"Neither is universally better—it depends on the person, the job, and the team. Remote work offers flexibility, no commute, and fewer office distractions, which can boost focus and work-life balance for some. Office work provides easier collaboration, spontaneous conversations, mentorship, and a clearer separation between work and home. Many companies now favor hybrid arrangements, which combine the flexibility of remote days with the connection and structure of in-person time. The best choice usually comes down to the nature of the work and individual preferences."

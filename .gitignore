@@ -1,9 +1,33 @@
-venv/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter
 .ipynb_checkpoints/
-data/raw/*.csv
+
+# Regenerated data
+data/processed/*.csv
+
+# Model checkpoints (large)
 models/*.pt
 models/*.pkl
-results/*.png
+
+# OS
 .DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Scratch files
+~$*.docx
+report/numbers.txt

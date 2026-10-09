@@ -1,0 +1,7 @@
+model,use,acc_mean,acc_std,f1_mean,f1_std
+cnn,both,0.818,0.029,0.82,0.026
+cnn,input,0.333,0.0,0.281,0.043
+cnn,output,0.769,0.062,0.764,0.072
+rnn,both,0.489,0.042,0.454,0.041
+rnn,input,0.333,0.0,0.301,0.038
+rnn,output,0.529,0.019,0.48,0.025

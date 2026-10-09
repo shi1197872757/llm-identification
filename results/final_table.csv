@@ -1,0 +1,7 @@
+model,feature,seed,test_acc,test_macro_f1
+CNN,output,1,0.756,0.756
+CNN,input,1,0.333,0.257
+CNN,both,1,0.822,0.82
+RNN,output,1,0.511,0.444
+RNN,input,1,0.333,0.259
+RNN,both,1,0.511,0.487
