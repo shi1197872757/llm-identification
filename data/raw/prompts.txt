@@ -1,0 +1,101 @@
+(AI generated 100 random prompt)
+Explain how photosynthesis works in 3 sentences.
+What are the main causes of World War I?
+Describe the water cycle in simple terms.
+What is the difference between mitosis and meiosis?
+Explain the theory of evolution by natural selection.
+What causes earthquakes?
+How do vaccines work in the human body?
+What is the greenhouse effect and why does it matter?
+Explain how the internet transmits data between computers.
+What is the difference between a virus and a bacterium?
+How does the human immune system fight infections?
+Explain how neurons communicate with each other.
+What is the difference between weather and climate?
+What is quantum entanglement in simple terms?
+What caused the fall of the Roman Empire?
+How do solar panels convert sunlight into electricity?
+What is the role of DNA in heredity?
+What is inflation and what causes it?
+How does the human eye perceive color?
+How do black holes form?
+Write a Python function to reverse a string.
+Write a Python function that returns the nth Fibonacci number.
+Write a Python function to check if a number is prime.
+Write a Python function to count vowels in a string.
+Write a Python function to find the maximum element in a list without using max().
+Write a Python function to merge two sorted lists into one sorted list.
+Write a Python function to check if a string is a palindrome.
+Write a Python function to compute the factorial of a number using recursion.
+Write a Python function to remove duplicates from a list while preserving order.
+Write a Python function to flatten a nested list.
+Write a Python class for a stack with push, pop, and peek.
+Write a Python function to detect if two strings are anagrams.
+Write a Python function to compute the greatest common divisor of two numbers.
+Write a Python function to implement binary search.
+Write a Python function to sort a list using merge sort.
+Write a Python function to sort a list using quicksort.
+Write a Python function to convert a Roman numeral to an integer.
+Write a Python function to check for balanced parentheses in a string.
+Write a Python function to find the longest common prefix among a list of strings.
+Write a Python function to implement the FizzBuzz problem.
+Write a Python function to reverse the words in a sentence.
+Write a Python function to find the missing number in a list of 1..n.
+Write a Python function to implement the two-sum problem.
+Write a Python function to find the longest palindromic substring in a string.
+Write a Python decorator that logs the execution time of a function.
+Write a Python function to parse a JSON string safely.
+What is 17 × 23? Show your reasoning.
+If a train travels 60 mph for 2.5 hours, how far does it go?
+Solve for x: 3x + 7 = 22.
+What is the sum of the first 100 positive integers?
+If a rectangle has length 8 and width 5, what is its area and perimeter?
+What is 15% of 240?
+If 4 apples cost $3, how much do 10 apples cost?
+Solve for x: x^2 - 5x + 6 = 0.
+A car uses 8 liters of fuel per 100 km. How much fuel for a 350 km trip?
+What is the probability of rolling a sum of 7 with two dice?
+If a square has a diagonal of 10, what is its side length?
+What is the area of a circle with radius 7?
+If log base 2 of x equals 5, what is x?
+What is the derivative of x^3 + 2x^2 - 5x + 1?
+If 5 workers can build a wall in 12 days, how long for 3 workers?
+Solve the system: x + y = 10, x - y = 4.
+What is the GCD of 48 and 60?
+What is the LCM of 12 and 18?
+If a fair coin is flipped 4 times, what is the probability of exactly 2 heads?
+Convert 0.375 to a fraction.
+What is the sum of the interior angles of a pentagon?
+How many ways can 5 people be arranged in a line?
+What is the expected value of a fair six-sided die?
+What is the volume of a sphere with radius 3?
+Write a short story about a lighthouse keeper who discovers something strange.
+Write a poem about autumn in 8 lines.
+Describe a rainy city street at night in 5 sentences.
+Write a fairy tale about a talking cat who grants wishes.
+Write a dialogue between two strangers stuck in an elevator.
+Write a haiku about the ocean.
+Write a letter from a soldier to their family during wartime.
+Write a short story that begins with "The clock had stopped at 3:47."
+Write a poem about growing up.
+Write a story about a robot who learns to paint.
+Write a limerick about a clumsy chef.
+Describe a summer afternoon from the perspective of a dog.
+Write a short story set in a library at midnight.
+Write an ode to coffee.
+Write a ghost story in exactly 100 words.
+Write a poem about a forgotten photograph.
+Describe the feeling of homesickness.
+Write a bedtime story for a child afraid of the dark.
+Write a poem about silence.
+Summarize the plot of Hamlet in 5 sentences.
+Summarize the causes of climate change in 4 bullet points.
+Summarize the story of Romeo and Juliet in 3 sentences.
+Summarize the theory of relativity for a high-schooler.
+Summarize the process of photosynthesis in 3 sentences.
+Summarize the history of the internet in 5 sentences.
+Summarize the causes of the American Civil War in 4 sentences.
+Summarize the main themes of "1984" by George Orwell.
+Summarize the French Revolution in 4 sentences.
+Should students learn cursive in 2026? Give a short argument.
+Is remote work better than office work? Explain briefly.
